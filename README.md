@@ -1,6 +1,6 @@
 # ios-cocoa-firebase-devel
 
-This is a simple App for Firebase util. (iOS, Cocoa, Objective-C)
+This is a simple App for Firebase util (iOS, Cocoa, Objective-C)
 
 ## Features
 
