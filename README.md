@@ -1,4 +1,4 @@
-# ios-cocoa-firebase-devel
+# ios-cocoa-firebase
 
 This is a simple App for Firebase util (iOS, Cocoa, Objective-C)
 
